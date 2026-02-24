@@ -15,21 +15,33 @@ La información se obtiene desde:
 
 Vista previa
 - Menu principal
+
     <img width="499" height="201" alt="image" src="https://github.com/user-attachments/assets/9473d32e-4869-4c02-a182-11bd3dda9d42" />
+    
 - Opcion 1:
+  
     <img width="479" height="567" alt="image" src="https://github.com/user-attachments/assets/94a81337-ff12-4cd8-8732-f241615b2e36" />
     <img width="1376" height="376" alt="image" src="https://github.com/user-attachments/assets/664cd689-2086-4997-baf4-12ce8585e62e" />
     <img width="1371" height="347" alt="image" src="https://github.com/user-attachments/assets/a8970bb1-a534-4f3c-8a60-c03299acd84b" />
+
 - Opcion 2:
+
     <img width="840" height="679" alt="image" src="https://github.com/user-attachments/assets/121de5bc-5593-4bab-adad-8a3eb8c09a55" />
+
 - Opcion 3:
+
     <img width="1243" height="705" alt="image" src="https://github.com/user-attachments/assets/e3a8add1-09c1-4ca9-b5de-5fce6b19fbd9" />
+
 - Opcion 4:
+
     <img width="1006" height="331" alt="image" src="https://github.com/user-attachments/assets/3a98f9ad-ec56-483f-a890-e5680489d1a5" />
     <img width="1011" height="563" alt="image" src="https://github.com/user-attachments/assets/5e390c49-8901-407f-90ad-e5be8680b881" />
+
 - Opcion 5:
+
     <img width="753" height="514" alt="image" src="https://github.com/user-attachments/assets/79f7a9d7-f650-4246-aae0-6f274243d58f" />
     <img width="644" height="273" alt="image" src="https://github.com/user-attachments/assets/e1c2e74c-fc5b-46d3-89c1-67b21a4f47e0" />
+
 
 Tecnologías utilizadas
 Java 17+
